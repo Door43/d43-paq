@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[paq:home|Door43 (paq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-paq|d43-paq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-paq/archive/master.zip|d43-paq.zip]]
+
+**Recent Changes**
+{{changes>ns = paq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/paq|Ethnologue data]]
+
